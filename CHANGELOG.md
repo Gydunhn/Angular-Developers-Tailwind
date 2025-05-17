@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.1.0] - 2025-05-16
+## [1.0.0] - 2025-05-16
 
 ### Added
 
@@ -25,4 +25,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   * Tailwind Moon, shadowblood
 
 [Unreleased]: https://github.com/Gydunhn/Angular-Tailwind-Essentials/tree/develop
-[0.1.0]: https://github.com/Gydunhn/Angular-Tailwind-Essentials/releases/tag/0.1.0
+[1.0.0]: https://github.com/Gydunhn/Angular-Tailwind-Essentials/releases/tag/1.0.0
