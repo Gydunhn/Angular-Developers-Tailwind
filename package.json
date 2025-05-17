@@ -4,7 +4,7 @@
   "description": "The Essentials Extensions for Angular + Tailwind Development.",
   "icon": "img/essentials.png",
   "galleryBanner": {
-    "color": "#065f6b",
+    "color": "#003138",
     "theme": "dark"
   },
   "license": "LICENSE.md",
